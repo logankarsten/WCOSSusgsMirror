@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chps-wrf-hydro/!svn/ver/574/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis
+END
+time_slice_job_cray.bsub
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/time_slice_job_cray.bsub
+END
+make_time_slice_from_usgs_waterml.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/make_time_slice_from_usgs_waterml.py
+END
+USGS_Observation.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chps-wrf-hydro/!svn/ver/572/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/USGS_Observation.py
+END
+TimeSlice.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chps-wrf-hydro/!svn/ver/574/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/TimeSlice.py
+END
+bsub_timeslice.bash
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/bsub_timeslice.bash
+END
+crontab.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/crontab.txt
+END
+Tracer.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/analysis/Tracer.py
+END

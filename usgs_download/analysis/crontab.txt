@@ -1,0 +1,2 @@
+10,25,40,55 * * * * /raid5/karsten/USGS_TIMESLICES/programs/usgs_download/analysis/time_slice_job_cray.sh
+20,35,50,05 * * * * /raid5/karsten/USGS_TIMESLICES/programs/usgs_download/analysis/gen_listing.sh

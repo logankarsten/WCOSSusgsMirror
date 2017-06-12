@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download
+END
+usgs_iv_retrieval.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download/usgs_iv_retrieval.py
+END
+parallel_download_master.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download/parallel_download_master.py
+END
+fetch_sites.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download/fetch_sites.py
+END
+find_changed_site_for_huc.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/chps-wrf-hydro/!svn/ver/568/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download/find_changed_site_for_huc.py
+END
+run_usgs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chps-wrf-hydro/!svn/ver/588/tags/v1.1.3/NCO/nwm.v1.1.3/ush/usgs_download/stream_flow_download/run_usgs.sh
+END
